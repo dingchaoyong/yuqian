@@ -1,0 +1,5 @@
+apply from: "gretty.plugin"
+gretty {
+    httpPort = 6666
+    contextPath = "/"
+}
